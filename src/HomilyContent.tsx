@@ -2,7 +2,7 @@ export function HomilyContent() {
   return (
     <div className="homily-content">
       <h2>A Vida e Morte de Joseph</h2>
-      <p className="subtitle-italic">Texto produzido a partir de uma homília de Padre Kleverton Bezerra, consagrado a Comunidade Doce Mãe de Deus.</p>
+      <p className="subtitle-italic">Texto produzido a partir de uma homilia do Padre Kleverton Bezerra, consagrado à Comunidade Doce Mãe de Deus.</p>
       <h2>A Promessa e o Testemunho de Joseph</h2>
       <p className="drop-cap"><span className="first-letter">G</span>ostaria, nesta homilia (sem me estender demasiado), de cumprir uma promessa que fiz a Nosso Senhor: a de que em todas as missões de Carnaval eu daria o testemunho de Joseph. Espero não ser exaustivo. Desde que fiz essa promessa, Nosso Senhor aproveitou bem o compromisso: já estive em Guarabira, vim para cá e andei por muitos outros lugares, sempre dando esse testemunho da graça que o Senhor me permitiu viver ao acompanhar espiritualmente Joseph nos dois últimos meses antes de ele partir para o céu.</p>
       <p>Não estou canonizando Joseph aqui, mas tenho duas coisas a afirmar. Primeira: ele morreu em estado de graça. Isso eu posso dizer, afirmar e confirmar. Segunda: ele morreu em odor de santidade, porque quem chegava ao quarto dele nos sábados sentia um suave perfume que vinha do quinto andar. Essas duas realidades são verdade.</p>

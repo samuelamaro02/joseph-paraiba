@@ -1,12 +1,15 @@
 import './App.css'
 import { HomilyContent } from './HomilyContent'
+import { FaCross } from 'react-icons/fa6'
 
 function App() {
   return (
     <div className="liturgical-page">
       <div className="content-wrapper">
         <header className="page-header">
-          <div className="golden-cross">✝</div>
+          <div className="golden-cross">
+            <FaCross size={48} />
+          </div>
           <h1>Joseph</h1>
           <p className="subtitle">Testemunho de Vida</p>
         </header>
