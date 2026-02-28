@@ -1,0 +1,83 @@
+:root {
+  /* Colors */
+  --bg-color: #F4F1EA;
+  --text-color: #3E2F26;
+  --gold-highlight: #A8863A;
+  /* Escurecido para melhor contraste */
+  --marian-blue: #1F2E4A;
+  --martyr-red: #6B1E1E;
+
+  /* Typography */
+  --font-body: 'Palatino', 'Palatino Linotype', 'Book Antiqua', 'Cormorant Garamond', serif;
+  --font-title: 'Cinzel', serif;
+
+  /* Spacing */
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 40px;
+  --space-5: 64px;
+  --space-6: 96px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: var(--font-body);
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-title);
+  font-weight: 500;
+  margin-top: 0;
+  color: var(--text-color);
+}
+
+a {
+  color: var(--marian-blue);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--gold-highlight);
+}
+
+button {
+  background-color: var(--marian-blue);
+  color: var(--gold-highlight);
+  border: none;
+  border-radius: 4px;
+  padding: var(--space-2) var(--space-3);
+  font-family: var(--font-body);
+  font-size: 1em;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  box-shadow: 0 0 10px rgba(198, 167, 94, 0.4);
+}
+
+/* Base resets */
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
