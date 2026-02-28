@@ -17,15 +17,15 @@ function App() {
         <div className="carousel-wrapper">
           <section className="hero-image-grid">
             <div className="image-container">
-              <img src="/foto 01.png" alt="Joseph da Paraíba" className="hero-image" />
+              <img src="/foto 01.png" alt="Joseph da Paraíba — jovem convertido do ateísmo à santidade" className="hero-image" width="600" height="800" loading="eager" fetchPriority="high" />
               <div className="warm-overlay"></div>
             </div>
             <div className="image-container">
-              <img src="/foto 02.png" alt="Joseph Testemunho 1" className="hero-image" />
+              <img src="/foto 02.png" alt="Joseph da Paraíba na comunidade — testemunho de fé e serviço aos pobres" className="hero-image" width="600" height="800" loading="eager" />
               <div className="warm-overlay"></div>
             </div>
             <div className="image-container">
-              <img src="/foto 03.png" alt="Joseph Testemunho 2" className="hero-image" />
+              <img src="/foto 03.png" alt="Joseph da Paraíba — últimos meses de vida, oblação e morte em odor de santidade" className="hero-image" width="600" height="800" loading="lazy" />
               <div className="warm-overlay"></div>
             </div>
           </section>
