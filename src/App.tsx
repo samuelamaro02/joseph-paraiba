@@ -17,15 +17,15 @@ function App() {
         <div className="carousel-wrapper">
           <section className="hero-image-grid">
             <div className="image-container">
-              <img src="/foto 01.png" alt="Joseph Anderson — jovem convertido do ateísmo à santidade" className="hero-image" width="600" height="800" loading="eager" fetchPriority="high" />
+              <img src="/foto 01.webp" alt="Joseph Anderson — jovem convertido do ateísmo à santidade" className="hero-image" width="600" height="800" loading="eager" fetchPriority="high" />
               <div className="warm-overlay"></div>
             </div>
             <div className="image-container">
-              <img src="/foto 02.png" alt="Joseph Anderson na comunidade — testemunho de fé e serviço aos pobres" className="hero-image" width="600" height="800" loading="eager" />
+              <img src="/foto 02.webp" alt="Joseph Anderson na comunidade — testemunho de fé e serviço aos pobres" className="hero-image" width="600" height="800" loading="eager" />
               <div className="warm-overlay"></div>
             </div>
             <div className="image-container">
-              <img src="/foto 03.png" alt="Joseph Anderson — últimos meses de vida, oblação e morte em odor de santidade" className="hero-image" width="600" height="800" loading="lazy" />
+              <img src="/foto 03.webp" alt="Joseph Anderson — últimos meses de vida, oblação e morte em odor de santidade" className="hero-image" width="600" height="800" loading="lazy" />
               <div className="warm-overlay"></div>
             </div>
           </section>
