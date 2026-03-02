@@ -28,7 +28,7 @@ Gostaria, nesta homilia (sem me estender demasiado), de cumprir uma promessa que
 
 Não estou canonizando Joseph aqui, mas tenho duas coisas a afirmar. Primeira: ele morreu em estado de graça. Isso eu posso dizer, afirmar e confirmar. Segunda: ele morreu em odor de santidade, porque quem chegava ao quarto dele nos sábados sentia um suave perfume que vinha do quinto andar. Essas duas realidades são verdade.
 
-Se ele será canonizado, se será beatificado, se algum dia terei a graça de celebrar uma missa em honra de São Joseph da Paraíba, eu não sei. Mas que ele está no céu: disso não tenho dúvida. Se ele não estiver no céu, serei eu o primeiro a não entrar\! Agora vou explicar por que acredito nisso.
+Se ele será canonizado, se será beatificado, se algum dia terei a graça de celebrar uma missa em honra de São Joseph Anderson, eu não sei. Mas que ele está no céu: disso não tenho dúvida. Se ele não estiver no céu, serei eu o primeiro a não entrar\! Agora vou explicar por que acredito nisso.
 
 Identifico três dimensões de santidade na vida de Joseph. Mas antes de falar sobre elas, deixem-me contar um pouco do histórico dele.
 
